@@ -1,0 +1,7 @@
+C:\Users\Shirley\source\repos\AdventureGameDavidNichol\AdventureGameDavidNichol\obj\Debug\AdventureGameDavidNichol.csprojAssemblyReference.cache
+C:\Users\Shirley\source\repos\AdventureGameDavidNichol\AdventureGameDavidNichol\obj\Debug\AdventureGameDavidNichol.csproj.CoreCompileInputs.cache
+C:\Users\Shirley\source\repos\AdventureGameDavidNichol\AdventureGameDavidNichol\bin\Debug\AdventureGameDavidNichol.exe.config
+C:\Users\Shirley\source\repos\AdventureGameDavidNichol\AdventureGameDavidNichol\bin\Debug\AdventureGameDavidNichol.exe
+C:\Users\Shirley\source\repos\AdventureGameDavidNichol\AdventureGameDavidNichol\bin\Debug\AdventureGameDavidNichol.pdb
+C:\Users\Shirley\source\repos\AdventureGameDavidNichol\AdventureGameDavidNichol\obj\Debug\AdventureGameDavidNichol.exe
+C:\Users\Shirley\source\repos\AdventureGameDavidNichol\AdventureGameDavidNichol\obj\Debug\AdventureGameDavidNichol.pdb
